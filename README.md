@@ -30,7 +30,7 @@ This course is about how large language models actually work and how you can use
 
 **Grade = 0.4 × project proposal + 0.6 × final defense**
 
-Projects are done in teams of four. Each stage is marked out of 10.
+Projects are done in teams of four. Each stage is marked out of 10. The full rules — teams, repository requirements, presentation format, attendance — are in [GROUP_PROJECT.md](GROUP_PROJECT.md).
 
 ### Project Proposal — 10 points
 
