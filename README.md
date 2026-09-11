@@ -26,6 +26,14 @@ This course is about how large language models actually work and how you can use
 | 12 | **AgentOps** | &bull; Making output stable and predictable: unit tests, trajectory analysis<br>&bull; Why classical metrics (recall, precision, MSE) do not transfer to open-ended tasks<br>&bull; Task success rate, step- and trajectory-level evaluation, LLM-as-judge, pairwise comparison, human evaluation<br>&bull; Handling hallucinations; token budgeting<br>&bull; Prompt injection, direct and indirect, and the confused-deputy problem — shown side by side, insecure and hardened<br>&bull; Prompt caching and cache-aware agent design; streaming |
 | 13 | **Frontiers** | &bull; The agent harness as a research frontier<br>&bull; Self-improving and self-creating agents (Ouroboros)<br>&bull; World models<br>&bull; Open research problems, and where all of this is going |
 
+## Seminars and Demos
+
+Each seminar lives in its own folder with a README that covers setup and how to run it. All demos use [OpenRouter](https://openrouter.ai) with free-tier models, so a free key is enough; the `.env.example` at the repository root lists the variables every demo reads.
+
+| # | Folder | Lecture | What is inside |
+|---|---|---|---|
+| 1 | [demo1-intro-llms](demo1-intro-llms/) | LLM Fundamentals | &bull; A notebook that turns every generation parameter through the API — temperature, top-k, top-p, penalties, `max_tokens`, reasoning effort — and shows the next-token distribution via `logprobs`<br>&bull; A minimal FastAPI service (a joke generator with creativity presets) packaged with Docker, as a template for the group project |
+
 ## Grading
 
 **Grade = 0.4 × project proposal + 0.6 × final defense**
