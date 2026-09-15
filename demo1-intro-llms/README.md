@@ -77,11 +77,15 @@ cd demo1-intro-llms
 | `normal` | 0.9 | 0.95 |
 | `wild` | 1.5 | 1.0 |
 
-Every response echoes the parameters that were actually sent, so the friendly label and the real knob sit side by side. You can override `temperature`, `top_p`, `max_tokens` and `model` per request.
+Every response echoes the parameters that were actually sent, so the friendly label and the real knob sit side by side. You can override `temperature`, `top_p`, `reasoning`, `max_tokens` and `model` per request.
+
+**Reasoning is on, at `low` effort, by default.** The primary free model is a thinking model, so the service asks it to think briefly before the joke and returns what it thought: the `reasoning` field of the response is the trace, and `usage.reasoning_tokens` is what it cost. Send `"reasoning": "off"` (or `"medium"` / `"high"`) to change that.
+
+Those thinking tokens come out of the same `max_tokens` budget as the joke and are emitted *first*, which is why the default budget is `1200` rather than a joke-sized 300: with too little room the thinking finishes the budget, `joke` comes back empty and `finish_reason` is `length`. If that happens, raise `max_tokens` or turn reasoning off. A provider may also decline to send the trace even with reasoning on; then `reasoning` is `null` and the token count still shows the cost.
 
 Endpoints:
 
-- `GET /health` → `{"status": "ok", "model": "<MODEL_NAME>"}`
+- `GET /health` → `{"status": "ok", "model": "<MODEL_NAME>", "reasoning": "low"}`
 - `POST /joke` → one joke
 - `POST /joke/compare` → the same topic at all three presets, in parallel (three API calls)
 - `GET /docs` → Swagger UI, the easiest way to try it
@@ -116,15 +120,23 @@ curl -s localhost:8000/joke/compare \
   -d '{"topic": "Docker"}'
 ```
 
+```bash
+# the same joke without the thinking step, for comparison
+curl -s localhost:8000/joke \
+  -H "Content-Type: application/json" \
+  -d '{"topic": "Docker", "reasoning": "off"}'
+```
+
 A `/joke` response looks like:
 
 ```json
 {
   "joke": "...",
+  "reasoning": "The topic is Docker. A story joke needs a character in a concrete situation...",
   "creativity": "wild",
   "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
-  "params_used": {"temperature": 1.5, "top_p": 1.0, "max_tokens": 300},
-  "usage": {"prompt_tokens": 95, "completion_tokens": 160},
+  "params_used": {"temperature": 1.5, "top_p": 1.0, "max_tokens": 1200, "reasoning": "low"},
+  "usage": {"prompt_tokens": 95, "completion_tokens": 380, "reasoning_tokens": 220},
   "finish_reason": "stop"
 }
 ```
