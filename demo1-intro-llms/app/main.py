@@ -46,8 +46,11 @@ PRESETS: dict[str, dict[str, float]] = {
 }
 
 SYSTEM_PROMPT = (
-    "You are a stand-up comedian. Write exactly one short joke about the topic the user gives. "
-    "Output only the joke: no preamble, no explanation, no quotes."
+    "You are a stand-up comedian who tells story jokes. Write exactly one joke about the topic "
+    "the user gives, shaped as a very short story: a character in a concrete situation, two or "
+    "three beats that escalate, then a punchline as the last sentence. "
+    "Keep it under 120 words and stop at the punchline — never explain it. "
+    "Output only the joke: no preamble, no title, no quotes."
 )
 
 
@@ -59,7 +62,8 @@ class JokeRequest(BaseModel):
     # Raw overrides. Leave unset to use the preset.
     temperature: float | None = Field(None, ge=0, le=2)
     top_p: float | None = Field(None, gt=0, le=1)
-    max_tokens: int = Field(120, ge=1, le=1000)
+    # A story joke runs ~160 tokens; too small a budget cuts off the punchline.
+    max_tokens: int = Field(300, ge=1, le=1000)
     model: str | None = Field(
         None, description="Override MODEL_NAME for this request", examples=[MODEL_NAME]
     )
@@ -69,7 +73,7 @@ class CompareRequest(BaseModel):
     topic: str = Field(..., min_length=1, max_length=200, examples=["large language models"])
     audience: str | None = Field(None, max_length=100)
     style: str | None = Field(None, max_length=50)
-    max_tokens: int = Field(120, ge=1, le=1000)
+    max_tokens: int = Field(300, ge=1, le=1000)
     model: str | None = Field(None, examples=[MODEL_NAME])
 
 

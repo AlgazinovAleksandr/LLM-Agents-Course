@@ -69,7 +69,7 @@ cd demo1-intro-llms
 
 ## The app
 
-`app/main.py` is a joke generator. You give it a topic and a **creativity** preset; the preset is nothing more than a pair of sampling parameters:
+`app/main.py` is a joke generator. It is prompted for *story* jokes — a character, a couple of escalating beats, a punchline in the last sentence, under 120 words — rather than one-liners, which also makes the presets below easier to tell apart. You give it a topic and a **creativity** preset; the preset is nothing more than a pair of sampling parameters:
 
 | preset | temperature | top_p |
 |---|---|---|
@@ -123,8 +123,8 @@ A `/joke` response looks like:
   "joke": "...",
   "creativity": "wild",
   "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
-  "params_used": {"temperature": 1.5, "top_p": 1.0, "max_tokens": 120},
-  "usage": {"prompt_tokens": 60, "completion_tokens": 35},
+  "params_used": {"temperature": 1.5, "top_p": 1.0, "max_tokens": 300},
+  "usage": {"prompt_tokens": 95, "completion_tokens": 160},
   "finish_reason": "stop"
 }
 ```
