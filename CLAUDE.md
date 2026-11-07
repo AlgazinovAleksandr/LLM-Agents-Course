@@ -9,8 +9,8 @@ Teaching material for the LLM Agents course (lecturer: Aleksandr Algazinov). The
 ## Layout conventions
 
 - `lecture_slides/NN_topic.pdf`: lecture decks. Demos reference slide numbers, so check the deck (`pdftotext` / `pdftoppm` work) before writing explanatory text.
-- `demoN-topic/`: one folder per seminar, self-contained (own `README.md`, `requirements.txt`, `Dockerfile`, `docker-compose.yml`). Currently only `demo1-intro-llms/`.
-- One `.env` at the **repository root**, shared by all demos and gitignored. `.env.example` lists the variables: `API_KEY`, `BASE_URL` (OpenRouter), `MODEL_NAME`, `SECOND_MODEL_NAME`. Demos load it as `../.env` (notebooks via `load_dotenv`, compose via `env_file: ../.env`).
+- `demoN-topic/`: one folder per seminar, self-contained (own `README.md`, `requirements.txt`, `Dockerfile`, Compose configuration). Currently `demo1-intro-llms/` and `demo2-rag/`.
+- Each demo owns its `.env` and committed `.env.example`; configuration may differ between demos. Apps load the `.env` from their demo folder; notebooks run from that folder and load `.env`; Compose uses `env_file: .env`. Keep Git ignore rules in the repository-root `.gitignore`, including `.env` and `.env.*` with an exception for `.env.example`.
 - One `uv` venv at the root (`.venv`, Python 3.12), used by every demo.
 - `.agents/skills/` holds Claude Code skills; `.claude/skills/*` are symlinks into it. `skills-lock.json` tracks them. Edit skills in `.agents/`.
 

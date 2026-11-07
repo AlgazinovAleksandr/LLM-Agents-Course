@@ -2,6 +2,6 @@ services:
   joke-api:
     build: .
     env_file:
-      - ../.env
+      - .env
     ports:
       - "8000:8000"

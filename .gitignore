@@ -12,6 +12,7 @@ Desktop.ini
 
 # Python
 __pycache__/
+.pytest_cache/
 *.py[cod]
 *.egg-info/
 .ipynb_checkpoints/
@@ -21,7 +22,17 @@ env/
 
 # Environment / secrets
 .env
-.env.local
+.env.*
+!.env.example
+
+# Demo 2: bundled corpus is source; downloads and indexes are generated.
+!/demo2-rag/data/
+!/demo2-rag/data/documents/
+!/demo2-rag/data/documents/*.md
+!/demo2-rag/data/manifest.json
+!/demo2-rag/data/ATTRIBUTION.md
+/demo2-rag/data/raw/
+/demo2-rag/storage/
 
 # Editors
 .idea/

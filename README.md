@@ -31,7 +31,7 @@ Slides are in [`lecture_slides/`](lecture_slides/) and are added as lectures are
 
 ## Seminars and Demos
 
-Each seminar lives in its own folder with a README that covers setup and how to run it. All demos use [OpenRouter](https://openrouter.ai) with free-tier models, so a free key is enough; the `.env.example` at the repository root lists the variables every demo reads.
+Each seminar lives in its own folder with a README that covers setup and how to run it. All demos use [OpenRouter](https://openrouter.ai) with free-tier models, so a free key is enough. Each demo has its own `.env.example`; copy it to `.env` inside that demo and fill in your key. The root `.gitignore` keeps local environment files out of Git across all demos.
 
 | # | Folder | Lecture | What is inside |
 |---|---|---|---|

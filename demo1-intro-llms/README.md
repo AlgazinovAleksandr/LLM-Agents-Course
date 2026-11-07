@@ -18,10 +18,11 @@ demo1-intro-llms/
 ├── requirements.txt               # shared by the notebook and the app
 ├── Dockerfile
 ├── docker-compose.yml
+├── .env.example                  # copy to .env and fill in your key
 └── README.md
 ```
 
-The `.env` file lives one level up, at the **repository root**, and is shared by all demos.
+The `.env` file lives inside this demo folder. Its settings are independent of other demos.
 
 ## Prerequisites
 
@@ -36,7 +37,7 @@ The `.env` file lives one level up, at the **repository root**, and is shared by
 From the repository root:
 
 ```bash
-cp .env.example .env          # then paste your key into API_KEY
+cp demo1-intro-llms/.env.example demo1-intro-llms/.env  # then fill in API_KEY
 uv venv                       # creates .venv with Python 3.12
 uv pip install -r demo1-intro-llms/requirements.txt
 ```
@@ -104,7 +105,7 @@ cd demo1-intro-llms
 docker compose up --build
 ```
 
-Compose reads `../.env` (see `env_file` in `docker-compose.yml`) and publishes port 8000. Open <http://localhost:8000/docs>. Stop with `docker compose down`.
+Compose reads this demo's `.env` (see `env_file` in `docker-compose.yml`) and publishes port 8000. Open <http://localhost:8000/docs>. Stop with `docker compose down`.
 
 ### Example requests
 

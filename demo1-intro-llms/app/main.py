@@ -20,8 +20,8 @@ from fastapi import FastAPI, HTTPException
 from openai import APIStatusError, AsyncOpenAI
 from pydantic import BaseModel, Field
 
-# Local runs pick up the repo-root .env; in Docker the same variables arrive via env_file.
-load_dotenv(Path(__file__).resolve().parents[2] / ".env")
+# Local runs pick up this demo's .env; Docker supplies variables via env_file.
+load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 
 API_KEY = os.environ.get("API_KEY", "")
 BASE_URL = os.environ.get("BASE_URL", "https://openrouter.ai/api/v1")
