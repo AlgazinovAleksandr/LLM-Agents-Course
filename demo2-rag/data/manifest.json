@@ -1,0 +1,929 @@
+{
+  "schema_version": 1,
+  "source_site": "https://backrooms-wiki.wikidot.com/",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "fetched_at": "2026-11-06T12:51:34.345851+00:00",
+  "documents": [
+    {
+      "id": "level-0",
+      "kind": "level",
+      "path": "documents/level-0.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-0",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:46:18.413435+00:00",
+      "sha256": "902ee9fd7e8ff0edefd68703619260e0c2cf7e91a935eab5b40a604d73007433",
+      "title": "Level 0 - \"Threshold\"",
+      "authors": [
+        "DivineAtlas",
+        "DrAkimoto",
+        "RobertGoerman"
+      ],
+      "citation": "\" Level 0 - \"Threshold\" \" by DivineAtlas, DrAkimoto, and RobertGoerman, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-0 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original Backrooms concept from this post on 4chan This entry was adapted by Reddit user u/Deveyerr, and rewritten by DivineAtlas , Robert Goerman , & DrAkimoto A big thanks to our Greenlighters: r a t i f , [Anonymous User], BlueSignet , ForestIsWatching , ReyDay , Sky3 , InspectingCritters , & Liurnia And to the countless critics and community members that offered feedback, fixes, and patience over the iterations of this article. Another massive thank you to Alfarex on the TS Discord for providing us the CC Compliant Level 0 Render! It's licensed under CC BY-SA 3.0 ! And another massive thank you to Bob Mazza for releasing the original image into the public domain. If you'd like to see more works by the authors: DivineAtlas' Author Page Akimoto's Author Page Robert Goerman's Author Page Close",
+      "revision": "50",
+      "revision_text": "page revision: 50, last edited: 06 Oct 2026 13:32"
+    },
+    {
+      "id": "level-1",
+      "kind": "level",
+      "path": "documents/level-1.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-1",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:42.621393+00:00",
+      "sha256": "f6db4544e7724c6db56d926c91e5335d5950d3b81d61237132587b1acf12794c",
+      "title": "Level 1 - \"Habitable Zone\"",
+      "authors": [
+        "Praetor3005",
+        "DivineAtlas"
+      ],
+      "citation": "\" Level 1 - \"Habitable Zone\" \" by Praetor3005 and DivineAtlas, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-1 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info This article has been written by Praetor3005 ( author page ) and DivineAtlas ( author page ). The origin of Level 1 as a concept has been created by EnderMitten on this reddit post . The original author of the Level 1 article on the wikidot is the Reddit user u/ThePizzaEater1000 ( link ), and has been rewritten by etoisle ( link ) before being rewritten again into this page. The awesome ambiance tracks have been created by Dapper Husky on their Youtube channel. They made awesome backrooms music for the Main 9, but also for other levels and entities. Make sure you check their work! Special thanks to: Abdallah Amr for fixing the caroussel issues, as well as creating the initial ambiance component BlueSignet for her feedback about overexplained parts cakelord114514 for making the code for the background and extended blocks, as well as making them work on mobile C-Graph for their insanely helpful writing advice The CN community for helping us understand the Speednoclippers lore better Nikuchan for creating the lore of Tom's Diner Mel-Raspberry for helping fix the color palette of some blocks and links Poliacci for helping brainstorm Level 1 M.E.G. r a t i f for SPAG-checking the page ReyDay for the sick yarn in crates idea scutoid studios for coming up with a more user-friendly ambiance component Spectre48 for giving ideas on groups and characters to showcase in the level and helping on the Castellos paragraph SecondtoInfinity , Tomuuu and many other people on the discord for critting the first draft and making us adapt the format into what it is today And finally, thank YOU for reading! This article has been a ton of fun to work on, and we hope you enjoy it as much as we did! Close",
+      "revision": "83",
+      "revision_text": "page revision: 83, last edited: 07 Oct 2026 14:09"
+    },
+    {
+      "id": "level-2",
+      "kind": "level",
+      "path": "documents/level-2.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:44.538437+00:00",
+      "sha256": "ed5fcd2304f87d5804d567a6d7b7f3414a3fdedcfc7057f087b934d3113ef167",
+      "title": "Level 2 - \"Abandoned Utility Halls\"",
+      "authors": [
+        "Greggita Mahayfaio"
+      ],
+      "citation": "\" Level 2 - \"Abandoned Utility Halls\" \" by Greggita Mahayfaio, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-2 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info \" I think Level 2 looks even better than they did before. It was easy, really. You just have to look at things objectively, see what you don't need anymore, and trim out the fat. \" Originally made by u/M654z, subsequently rewritten by user 1000dumplings . Current writer, and ownership, falls under Boring Talking X_X As they are the owner Level 2's sub-section, RestarttWrites does not match any existing user name has written the subsection for Level 2.2. Other pages by me Levels Level 2 | Level 11 | Level 13 | Level 19 | Level 22 | Level 25 | Level 38 | Level 41 | Level 74 | Level 82 | Level 100 | Level 106 | Level 111 | Level 120 | Level 134 | Level 145 | Level 174 | Level 179 | Level 185 | Level 196 | Level 206 | Level 208 | Level 222 | Level 320 | Level 368 | Level 369 | Level 370 | Level 371 | Level 421 | Level 427 | Level 445 | Level 511 | Level 557 | Level 587 | Level 600 | Level 602 | Level 603 | Level 605 | Level 606 | Level 607 | Level 608 | Level 609 | Level 669 | Level 713 | Level 790 | Level 812 | Level 910 | Level 948 | Level 998 | Level 999 | Blue Channel | The Middlesorts | The Frontrooms | PA98 | Entities Entity 1 * | Entity 40 | Hypothetical Creator | Phenomena Phenomenon 31 | PoIs The Travellers | Objects Object 22 | Tales A Late Letter to a Late Friend | Case Closed | J. Doe and His Night With Your Mom | Permission Overwritten | The War For Scene-01.1 | The playground Click me! | Close",
+      "revision": "93",
+      "revision_text": "page revision: 93, last edited: 18 Oct 2026 05:03"
+    },
+    {
+      "id": "level-3",
+      "kind": "level",
+      "path": "documents/level-3.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-3",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:46.629776+00:00",
+      "sha256": "033c0dffbb0f605593851f35beb3e8723af018693f0ce21da55fe1b41325da2e",
+      "title": "Level 3 - \"Electrical Station\"",
+      "authors": [
+        "Natedagreat563"
+      ],
+      "citation": "\" Level 3 - \"Electrical Station\" \" by Natedagreat563, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-3 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info You are now blinking manually. The original author of this entry is the Reddit user u/M654z Rewritten (twice) by Natedagreat563 Author Page Other Pages By This Author Levels Electrical Station | TH3 SH4DY GR3Y | The Metro | The Dark Metro Sub-Sections Terror Hotel Casino | Level 800.1 Entities The Saberzoa | Icarus Procidens Objects The Ultimate Backrooms Cookbook | Spirit Links | Almond Water Tales Archived Journals of Lucy Fox | The Broken City Part 1: City Boy | The Broken City Part 2: Macy | The Broken City Part 3: Meggies | The Broken City Part 4: Terror | The Broken City Part 5: Good Intentions | Blanche’s Halloween Party | Ascension | Cracks People of Interest Eden G. Groups of Interest The M.E.G. Guides/Essays Survival Difficulty Class System Guide | Offsets 101 Close",
+      "revision": "18",
+      "revision_text": "page revision: 18, last edited: 26 Sep 2026 16:16"
+    },
+    {
+      "id": "level-4",
+      "kind": "level",
+      "path": "documents/level-4.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-4",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:48.117069+00:00",
+      "sha256": "d36110069f63ef7f0a2e7a27b9b0655a93649eadaf337e169647ee3012a66ca9",
+      "title": "Level 4 - \"Abandoned Office\"",
+      "authors": [
+        "u/M654zy on Reddit"
+      ],
+      "citation": "\" Level 4 - \"Abandoned Office\" \" by u/M654zy on Reddit, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-4 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "110",
+      "revision_text": "page revision: 110, last edited: 29 May 2025 16:27"
+    },
+    {
+      "id": "level-5",
+      "kind": "level",
+      "path": "documents/level-5.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-5",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:49.427931+00:00",
+      "sha256": "1c950be73b63b15511e060403959d515f109f2a0aa963a018ce39982c1562578",
+      "title": "Level 5 - \"Terror Hotel\"",
+      "authors": [
+        "Stretchsterz"
+      ],
+      "citation": "\" Level 5 - \"Terror Hotel\" \" by Stretchsterz, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-5 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original author of this entry is Fandom user Discord13 . Rewritten by Stretchsterz . Ideas, Code and Entity 18 paragraph by ratscrapz . Author Page Code is definitely not from Birch. Lol Close",
+      "revision": "184",
+      "revision_text": "page revision: 184, last edited: 07 Aug 2026 06:34"
+    },
+    {
+      "id": "level-6",
+      "kind": "level",
+      "path": "documents/level-6.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-6",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:50.753587+00:00",
+      "sha256": "d0b2c690399ed74a40a5a8d26a3d6778d04b7bef968e64937a8ac98a348ea552",
+      "title": "Level 6 - \"Lights Out\"",
+      "authors": [
+        "Bart0nius"
+      ],
+      "citation": "\" Level 6 - \"Lights Out\" \" by Bart0nius, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-6 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info This rewrite of a rewrite of a rewrite of a rewrite was written by Bart0nius , who also wrote the original. Formerly rewritten by 1000dumplings Formerly formerly rewritten by Abe Venrick Original article by Reddit users u/ThePizzaEater1000 and u/Mileisbored Close",
+      "revision": "65",
+      "revision_text": "page revision: 65, last edited: 09 Aug 2026 22:27"
+    },
+    {
+      "id": "level-7",
+      "kind": "level",
+      "path": "documents/level-7.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-7",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:52.034242+00:00",
+      "sha256": "66c20317548846967fb9637437b10c8ae509bffb4d18eea80f48434c18dafd09",
+      "title": "Level 7 - \"Thalassophobia\"",
+      "authors": [
+        "Bart0nius"
+      ],
+      "citation": "\" Level 7 - \"Thalassophobia\" \" by Bart0nius, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-7 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original authors of this entry are u/Bart0nius and u/M654z, who filled information gaps in the original entry. The rewrite was done by Bart0nius. The rewrite of the rewrite was done by Bart0nius . Again. Close",
+      "revision": "48",
+      "revision_text": "page revision: 48, last edited: 10 Mar 2026 09:14"
+    },
+    {
+      "id": "level-8",
+      "kind": "level",
+      "path": "documents/level-8.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-8",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:53.460514+00:00",
+      "sha256": "ff65b4687191edd2d41a14a9c7017e17c040f8ffe6af613842816db7bb86cb87",
+      "title": "Level 8 - \"Cave Systems\"",
+      "authors": [
+        "C-Graph",
+        "kai4C"
+      ],
+      "citation": "\" Level 8 - \"Cave Systems\" \" by C-Graph and kai4C, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-8 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original authors of this page were Bart0nius and Reddit user u/avolded. Initial rewrite by Stretchsterz , which can be read here . Rewritten again by C-Graph and Kai4C ! Glory be to the Man in White . A BIG thank you to… kennith , Sariastuff , Tsunami_Toshiharu , and Avery for their AMAZING art and illustrations! MC_Crafter_24_7 , Natedagreat563 , r a t i f , Greggita Mahayfaio , Sky3 , MyrandFox , ForestIsWatching and many more folk than we can even count or remember for their invaluable critique and feedback! Finally, thank YOU for reading! Hope you enjoyed this article! Close",
+      "revision": "77",
+      "revision_text": "page revision: 77, last edited: 02 Nov 2026 20:30"
+    },
+    {
+      "id": "level-9",
+      "kind": "level",
+      "path": "documents/level-9.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-9",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:54.844666+00:00",
+      "sha256": "3776b939a3069f9485517d16b405ec30331c36010e0fbdf9d61d859218fe55e0",
+      "title": "Level 9 - \"The Suburbs\"",
+      "authors": [
+        "Stretchsterz"
+      ],
+      "citation": "\" Level 9 - \"The Suburbs\" \" by Stretchsterz, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-9 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original author of this is the Reddit user u/Bart0nius. Rewritten by Stretchsterz . Author Page Code is definitely not from Birch. Lol Close",
+      "revision": "116",
+      "revision_text": "page revision: 116, last edited: 10 Oct 2026 03:55"
+    },
+    {
+      "id": "level-10",
+      "kind": "level",
+      "path": "documents/level-10.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-10",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:56.174722+00:00",
+      "sha256": "e20957bef132c231d298edfd641a5f4da0d5aa93c259d83586ac5567a10624cf",
+      "title": "Level 10 - \"Bumper Crop\"",
+      "authors": [
+        "scutoid studios & egglord"
+      ],
+      "citation": "\" Level 10 - \"Bumper Crop\" \" by scutoid studios & egglord, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-10 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info this page was written by scutoid studios ( authorpage ) and egglord the original author of this is the reddit user u/Hertz3241. the previous rewrite of this page was done by Stretchsterz Close",
+      "revision": "45",
+      "revision_text": "page revision: 45, last edited: 07 Aug 2026 06:38"
+    },
+    {
+      "id": "level-11",
+      "kind": "level",
+      "path": "documents/level-11.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-11",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:57.581897+00:00",
+      "sha256": "11ba54b7e54164eba8c37376fb3208e68414ad58001110d3854a73e4801b2b55",
+      "title": "Level 11 - \"The City That Never Sleeps\"",
+      "authors": [
+        "Greggita Mahayfaio",
+        "inspired by the original Level 11 by nerdykiddo4884"
+      ],
+      "citation": "\" Level 11 - \"The City That Never Sleeps\" \" by Greggita Mahayfaio, inspired by the original Level 11 by nerdykiddo4884, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-11 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Sorry, it's not nuked. Originally written by Stretchsterz , rewritten by Boring Talking ! <>_<> Other pages by me Levels Level 2 | Level 11 | Level 13 | Level 19 | Level 22 | Level 25 | Level 38 | Level 41 | Level 74 | Level 82 | Level 100 | Level 106 | Level 111 | Level 120 | Level 134 | Level 145 | Level 174 | Level 179 | Level 185 | Level 196 | Level 206 | Level 208 | Level 222 | Level 320 | Level 368 | Level 369 | Level 370 | Level 371 | Level 421 | Level 427 | Level 445 | Level 511 | Level 557 | Level 587 | Level 600 | Level 602 | Level 603 | Level 605 | Level 606 | Level 607 | Level 608 | Level 609 | Level 669 | Level 713 | Level 790 | Level 812 | Level 910 | Level 948 | Level 998 | Level 999 | Blue Channel | The Middlesorts | The Frontrooms | PA98 | Entities Entity 1 * | Entity 40 | Hypothetical Creator | Phenomena Phenomenon 31 | PoIs The Travellers | Objects Object 22 | Tales A Late Letter to a Late Friend | Case Closed | J. Doe and His Night With Your Mom | Permission Overwritten | The War For Scene-01.1 | The playground Click me! | Close",
+      "revision": "60",
+      "revision_text": "page revision: 60, last edited: 22 Sep 2026 16:12"
+    },
+    {
+      "id": "level-12",
+      "kind": "level",
+      "path": "documents/level-12.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-12",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:47:58.934527+00:00",
+      "sha256": "8cd7534689521c1791b0f4334c5d6e104ffab279a8518619e29d7b4b7759e8be",
+      "title": "Level 12 - \"Matrix\"",
+      "authors": [
+        "Stretchsterz",
+        "Liryn"
+      ],
+      "citation": "\" Level 12 - \"Matrix\" \" by Stretchsterz and Liryn, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-12 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original authors of this entry are the Reddit users u/JonasCBaldi3 and u/Smbfanexe. Rewritten by Stretchsterz and Liryn . Edited and reformatted by Liryn . Author Page Code is definitely not from Birch. Lol Close",
+      "revision": "110",
+      "revision_text": "page revision: 110, last edited: 09 Aug 2026 23:08"
+    },
+    {
+      "id": "level-13",
+      "kind": "level",
+      "path": "documents/level-13.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-13",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:00.243893+00:00",
+      "sha256": "a45213852dcb20d111bed0166198852ca49e882e706da2bc529d165e07392474",
+      "title": "Level 13 - \"The Boiling Frogs\"",
+      "authors": [
+        "Greggita Mahayfaio"
+      ],
+      "citation": "\" Level 13 - \"The Boiling Frogs\" \" by Greggita Mahayfaio, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-13 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Hilbert let the place go a bit. Originally a reddit port by u/Nerdykiddo4884, then rewritten by Uberspective Current version written by Boring Talking ! :O( Other pages by me Levels Level 2 | Level 11 | Level 13 | Level 19 | Level 22 | Level 25 | Level 38 | Level 41 | Level 74 | Level 82 | Level 100 | Level 106 | Level 111 | Level 120 | Level 134 | Level 145 | Level 174 | Level 179 | Level 185 | Level 196 | Level 206 | Level 208 | Level 222 | Level 320 | Level 368 | Level 369 | Level 370 | Level 371 | Level 421 | Level 427 | Level 445 | Level 511 | Level 557 | Level 587 | Level 600 | Level 602 | Level 603 | Level 605 | Level 606 | Level 607 | Level 608 | Level 609 | Level 669 | Level 713 | Level 790 | Level 812 | Level 910 | Level 948 | Level 998 | Level 999 | Blue Channel | The Middlesorts | The Frontrooms | PA98 | Entities Entity 1 * | Entity 40 | Hypothetical Creator | Phenomena Phenomenon 31 | PoIs The Travellers | Objects Object 22 | Tales A Late Letter to a Late Friend | Case Closed | J. Doe and His Night With Your Mom | Permission Overwritten | The War For Scene-01.1 | The playground Click me! | Close",
+      "revision": "28",
+      "revision_text": "page revision: 28, last edited: 08 Oct 2026 12:21"
+    },
+    {
+      "id": "level-14",
+      "kind": "level",
+      "path": "documents/level-14.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-14",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:01.905745+00:00",
+      "sha256": "7f09c76ca94a24809a1e5ac9ead3c313c004e3f38c6ea7bda4a979763ca91242",
+      "title": "Level 14 - \"Paradise\"",
+      "authors": [
+        "CutTheBirch"
+      ],
+      "citation": "\" Level 14 - \"Paradise\" \" by CutTheBirch, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-14 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Author: CutTheBirch Author Page Other Pages By This Author Levels Cyllene and Her Memories | Fight Club | Zenith Station | On big island live only one cow. | Memories of Memories of Memories | Haunted House | Bloodstained Garden | Forest of the Skeleton Queen | Penitentiary | Sea of Bones | Factory | Multiplex | America's Favorite Pastime | The Blancherooms | The Military Hospital | Terrestrial Paradise | Trade in your coins for eyes. | The Purple Rooms | Apocryphal City of Masks | Mondays | Yonder's End | Mirror Lake High School | Paradise | Lighthouse | Belly of the Beast | Pit of Despair | Soporous | Dead End | Blue Heaven | Math Class Entities Bident | Unapproachable Hose | Justice | Satan | The God on Level 532 | Adym | Hook Head | Imposters | Constructors | Night Stocker | Solitude | Entity 56 does not exist | Child of the Walls | Gods of Griots | Athenian Ducks | Mr. Freeman Objects [ Almond Water ] | Ouija Board | Candy | Scarecrows | Kat | Madison Street Mannequin POIs Father Pigeon | The Tarantula | Kain Petrie | J. Doe Tales B-Rooms Magazine, Vol. 5 | Another Inexplicably Extended Quinoa Adventure | The Parrot And The Knave | B-Rooms Magazine, Vol. 4 | B-Rooms Magazine, Vol. 3 | B-Rooms Magazine, Vol. 2 | B-Rooms Magazine, Vol. 1 | Don't Cry Over Spilled Blilk 2 | Don't Cry Over Spilled Blilk | laxity | A Christoween Carol | Observations In Downtown Diner, 9/28/2025 | Love, Aster | I have met the devil, and his name is Garfield | SAVEOURSHIP | Jun 17 1993 | Death Death Death Death Death Death Life Themes B.N.T.G. | Bluebird | Backrooms Robotics | Amor Incrementum | Database | Kalag Essays How To Make Your Draft More Interesting Storylines Gods of Griots Hub | Gods of Griots | Pit of Despair | Apocryphal City of Masks | laxity | The God on Level 532 | Bident | The Oracle (Coming Soon) Team Alice Dead End | Lighthouse | I have met the devil, and his name is Garfield | Clockwork Colossus (Coming Soon) Garfield Mondays | I have met the devil, and his name is Garfield | J. Doe | Observations In Downtown Diner, 9/28/2025 Blancherooms The Blancherooms | Don't Cry Over Spilled Blilk | Don't Cry Over Spilled Blilk 2 B-Room Magazine B-Rooms Magazine, Vol. 1 | B-Rooms Magazine, Vol. 2 | B-Rooms Magazine, Vol. 3 | B-Rooms Magazine, Vol. 4 | B-Rooms Magazine, Vol. 5 Close",
+      "revision": "51",
+      "revision_text": "page revision: 51, last edited: 18 Aug 2026 15:35"
+    },
+    {
+      "id": "level-15",
+      "kind": "level",
+      "path": "documents/level-15.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-15",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:03.297152+00:00",
+      "sha256": "326ea7fe06d3a70d13f7f7d614db86ca704dc95c2256c3ffb22ec7e7ba633004",
+      "title": "Level 15 - \"Futuristic Halls\"",
+      "authors": [
+        "Anonymous User"
+      ],
+      "citation": "\" Level 15 - \"Futuristic Halls\" \" by Anonymous User, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-15 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Due to the nature of this level, no other entrance or exit to other levels should be made without the direct permission of the current page owners (staff of the French Backrooms Wiki). Rewrite by Anonymous User, original from Reddit users u/Hugorrr u/incomplete-sentanc and KingSheep17 . Close",
+      "revision": "47",
+      "revision_text": "page revision: 47, last edited: 13 Aug 2026 18:47"
+    },
+    {
+      "id": "level-16",
+      "kind": "level",
+      "path": "documents/level-16.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-16",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:04.629648+00:00",
+      "sha256": "a17bcd2d955a295137ee5d01a62875f3bb44b4bce259a093fded0b1d2b73852a",
+      "title": "Level 16 - \"Altered Topography\"",
+      "authors": [
+        "DrBobtail"
+      ],
+      "citation": "\" Level 16 - \"Altered Topography\" \" by DrBobtail, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-16 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Author: DrBobtail Close",
+      "revision": "48",
+      "revision_text": "page revision: 48, last edited: 07 Oct 2026 14:12"
+    },
+    {
+      "id": "level-17",
+      "kind": "level",
+      "path": "documents/level-17.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-17",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:05.895337+00:00",
+      "sha256": "1cd7a75ddcd669046b9580f552c8b27cada998df391bcb60b90f3f2579768556",
+      "title": "Level 17 - \"The Carrier\"",
+      "authors": [
+        "DrAkimoto"
+      ],
+      "citation": "\" Level 17 - \"The Carrier\" \" by DrAkimoto, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-17 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "9",
+      "revision_text": "page revision: 9, last edited: 29 Oct 2026 11:21"
+    },
+    {
+      "id": "level-18",
+      "kind": "level",
+      "path": "documents/level-18.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-18",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:07.210079+00:00",
+      "sha256": "68d7e1695ea45ad576ee56ed4cbf4a86ee9386b50addf522facc76b896ad7aa6",
+      "title": "Level 18 - \"Memories\"",
+      "authors": [
+        "(user deleted)"
+      ],
+      "citation": "\" Level 18 - \"Memories\" \" by (user deleted), from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-18 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original author of this entry is the Reddit user u/Liam4Fingarz Rewritten by 1000dumplings Re-rewritten by yoyoflux Close",
+      "revision": "65",
+      "revision_text": "page revision: 65, last edited: 02 Oct 2026 23:38"
+    },
+    {
+      "id": "level-19",
+      "kind": "level",
+      "path": "documents/level-19.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-19",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:08.745412+00:00",
+      "sha256": "4f02a9a7c5117cc42551cf637163416235de8978c706b597441fd87282ba511a",
+      "title": "Level 19 - \"Attic Floorboards\"",
+      "authors": [
+        "Greggita Mahayfaio"
+      ],
+      "citation": "\" Level 19 - \"Attic Floorboards\" \" by Greggita Mahayfaio, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-19 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Pending Approval no more. Written by Boring Talking '-', originally rewritten by 1000Dumplings, with the OG author being u/BendyBoi3393. Other pages by me Levels Level 2 | Level 11 | Level 13 | Level 19 | Level 22 | Level 25 | Level 38 | Level 41 | Level 74 | Level 82 | Level 100 | Level 106 | Level 111 | Level 120 | Level 134 | Level 145 | Level 174 | Level 179 | Level 185 | Level 196 | Level 206 | Level 208 | Level 222 | Level 320 | Level 368 | Level 369 | Level 370 | Level 371 | Level 421 | Level 427 | Level 445 | Level 511 | Level 557 | Level 587 | Level 600 | Level 602 | Level 603 | Level 605 | Level 606 | Level 607 | Level 608 | Level 609 | Level 669 | Level 713 | Level 790 | Level 812 | Level 910 | Level 948 | Level 998 | Level 999 | Blue Channel | The Middlesorts | The Frontrooms | PA98 | Entities Entity 1 * | Entity 40 | Hypothetical Creator | Phenomena Phenomenon 31 | PoIs The Travellers | Objects Object 22 | Tales A Late Letter to a Late Friend | Case Closed | J. Doe and His Night With Your Mom | Permission Overwritten | The War For Scene-01.1 | The playground Click me! | Close",
+      "revision": "55",
+      "revision_text": "page revision: 55, last edited: 02 Nov 2026 15:20"
+    },
+    {
+      "id": "level-20",
+      "kind": "level",
+      "path": "documents/level-20.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-20",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:10.176089+00:00",
+      "sha256": "f653089ada4c7136b9a4dfd873a42329d32516b556ca1166f4c51d9ee671e79c",
+      "title": "Level 20 - \"Boreas Structure\"",
+      "authors": [
+        "Crabs the Tubular"
+      ],
+      "citation": "\" Level 20 - \"Boreas Structure\" \" by Crabs the Tubular , from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-20 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "52",
+      "revision_text": "page revision: 52, last edited: 10 Oct 2026 04:10"
+    },
+    {
+      "id": "level-21",
+      "kind": "level",
+      "path": "documents/level-21.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-21",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:11.538951+00:00",
+      "sha256": "c2912a97087950a3bde5dc430b26b7940140f41705f48477ca385712fc94d8cb",
+      "title": "Level 21 - \"Numbered Doors\"",
+      "authors": [
+        "Stretchsterz"
+      ],
+      "citation": "\" Level 21 - \"Numbered Doors\" \" by Stretchsterz, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-21 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "101",
+      "revision_text": "page revision: 101, last edited: 15 Aug 2026 14:33"
+    },
+    {
+      "id": "level-22",
+      "kind": "level",
+      "path": "documents/level-22.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-22",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:12.883216+00:00",
+      "sha256": "63811d6262f2403e700164dfc3e06940ed85f35b087aa2d9b935b620cb89c181",
+      "title": "Level 22 - \"Ruins Left Behind\"",
+      "authors": [
+        "Greggita Mahayfaio"
+      ],
+      "citation": "\" Level 22 - \"Ruins Left Behind\" \" by Greggita Mahayfaio, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-22 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info original Level by u/Macks1999, rewritten by BoringTalking ! :^/ The bigger they are, the harder they fall Flag was done by me :3 Other pages by me Levels Level 2 | Level 11 | Level 13 | Level 19 | Level 22 | Level 25 | Level 38 | Level 41 | Level 74 | Level 82 | Level 100 | Level 106 | Level 111 | Level 120 | Level 134 | Level 145 | Level 174 | Level 179 | Level 185 | Level 196 | Level 206 | Level 208 | Level 222 | Level 320 | Level 368 | Level 369 | Level 370 | Level 371 | Level 421 | Level 427 | Level 445 | Level 511 | Level 557 | Level 587 | Level 600 | Level 602 | Level 603 | Level 605 | Level 606 | Level 607 | Level 608 | Level 609 | Level 669 | Level 713 | Level 790 | Level 812 | Level 910 | Level 948 | Level 998 | Level 999 | Blue Channel | The Middlesorts | The Frontrooms | PA98 | Entities Entity 1 * | Entity 40 | Hypothetical Creator | Phenomena Phenomenon 31 | PoIs The Travellers | Objects Object 22 | Tales A Late Letter to a Late Friend | Case Closed | J. Doe and His Night With Your Mom | Permission Overwritten | The War For Scene-01.1 | The playground Click me! | Close",
+      "revision": "50",
+      "revision_text": "page revision: 50, last edited: 18 Aug 2026 14:13"
+    },
+    {
+      "id": "level-23",
+      "kind": "level",
+      "path": "documents/level-23.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-23",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:14.187688+00:00",
+      "sha256": "91dec46f70f7d92cbaf04e31b5debd1883d658e238d609db157282b0fcc95d67",
+      "title": "Level 23 - \"The Petrified Garden\"",
+      "authors": [
+        "Kitty Rika",
+        "Beep Bot"
+      ],
+      "citation": "\" Level 23 - \"The Petrified Garden\" \" by Kitty Rika and Beep Bot, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-23 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "88",
+      "revision_text": "page revision: 88, last edited: 08 Oct 2026 12:14"
+    },
+    {
+      "id": "level-24",
+      "kind": "level",
+      "path": "documents/level-24.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/level-24",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:15.575782+00:00",
+      "sha256": "99e655c6831cefc8fa3f0fa9f6ea1bc923c62270f1e6e5ea4f588e582c1a3a00",
+      "title": "Level 24 - \"The Moon\"",
+      "authors": [
+        "DrAkimoto"
+      ],
+      "citation": "\" Level 24 - \"The Moon\" \" by DrAkimoto, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/level-24 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Originally written by 1000 Dumplings Rewritten by DrAkimoto . Close",
+      "revision": "33",
+      "revision_text": "page revision: 33, last edited: 24 Jun 2026 14:51"
+    },
+    {
+      "id": "entity-3",
+      "kind": "entity",
+      "path": "documents/entity-3.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-3",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:16.769197+00:00",
+      "sha256": "897ff734ed5c74e028531366c7b2de09a40b07bfb22955264d53c9c316887480",
+      "title": "Entity 3 - \"Smilers\"",
+      "authors": [
+        "Palico22",
+        "rewritten by Stretchsterz"
+      ],
+      "citation": "\" Entity 3 - \"Smilers\" \" by Palico22, rewritten by Stretchsterz, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-3 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original author of this entry is Fandom user Palico22 . Rewritten by Stretchsterz . Close",
+      "revision": "83",
+      "revision_text": "page revision: 83, last edited: 07 Aug 2026 06:33"
+    },
+    {
+      "id": "entity-4",
+      "kind": "entity",
+      "path": "documents/entity-4.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-4",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:18.159481+00:00",
+      "sha256": "4015beecfedcc8d437fe7827d412f53298feb73c29893c690d0236d4959d677e",
+      "title": "Entity 4 - \"Deathmoths\"",
+      "authors": [
+        "DrAkimoto"
+      ],
+      "citation": "\" Entity 4 - \"Deathmoths\" \" by DrAkimoto, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-4 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Rewritten by DrAkimoto . Originally written by Kekcroc from Fandom. Critique by: Abdallah Amr & Crit Night folks. Magnileak SquibbleZombie Red-eyes Dragoon Special thanks: scutoid studios for making the Deathmoth Repellent can. & Yesserning for helping with getting the ad component working right. Levels: Level 0 , Level 17 , Level 24 , Level 77 , Level 79 , Level 80 , Level 102 , Level 103 , Level 108 , Level 116 , Level 117 , Level 406 , Level 701 , Ataraxia , In Extremis , You've Been Served (J) Entities: Entity 2 , Entity 4 , Entity 21 , Entity 51 , Entity 70 , Entity 88 , Entity 116 Objects: Object 2 , Object 52 Phenomenon: Phenomenon 35 , Phenomenon 51 , Phenomenon 71 Tales: :) , Crossroads , All in a Day's Work Other: B.N.T.G. Hub , Akirooms Close",
+      "revision": "6",
+      "revision_text": "page revision: 6, last edited: 31 Jan 2026 19:33"
+    },
+    {
+      "id": "entity-5",
+      "kind": "entity",
+      "path": "documents/entity-5.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-5",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:19.516232+00:00",
+      "sha256": "a1e09e561b2f7f2aa04e37ca2964a1aa7f19a53ed11ae11817869c698114907d",
+      "title": "Entity 5 - \"Clump\"",
+      "authors": [
+        "Kekcroc",
+        "rewritten by TrailmixNCocoa"
+      ],
+      "citation": "\" Entity 5 - \"Clump\" \" by Kekcroc, rewritten by TrailmixNCocoa, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-5 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original author is Kekcroc . Rewrite author is yours truly, TrailmixNCocoa ! Author Page (Chocolate Inside!) Close",
+      "revision": "39",
+      "revision_text": "page revision: 39, last edited: 02 Nov 2026 15:24"
+    },
+    {
+      "id": "entity-6",
+      "kind": "entity",
+      "path": "documents/entity-6.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-6",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:22.103218+00:00",
+      "sha256": "5555b65a1f29d1a22779318151717a61732f40354e0a5e5ab614dbee9c71e1e5",
+      "title": "Entity 6 - \"Dullers\"",
+      "authors": [
+        "Anonymous Fandom/Reddit user",
+        "rewritten by Stretchsterz"
+      ],
+      "citation": "\" Entity 6 - \"Dullers\" \" by Anonymous Fandom/Reddit user, rewritten by Stretchsterz, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-6 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info The original author of this entry is an Anonymous Fandom/Reddit User. Rewritten by Stretchsterz . Close",
+      "revision": "52",
+      "revision_text": "page revision: 52, last edited: 07 Aug 2026 06:53"
+    },
+    {
+      "id": "entity-7",
+      "kind": "entity",
+      "path": "documents/entity-7.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-7",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:24.045697+00:00",
+      "sha256": "9fd77f0d765bc95b518c9c1480404f63416577f16bc6fc66eab8ac9c4a304a08",
+      "title": "Entity 7 - \"Jerry\"",
+      "authors": [
+        "Sariastuff"
+      ],
+      "citation": "\" Entity 7 - \"Jerry\" \" by Sariastuff, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-7 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "15",
+      "revision_text": "page revision: 15, last edited: 28 Oct 2026 19:23"
+    },
+    {
+      "id": "entity-8",
+      "kind": "entity",
+      "path": "documents/entity-8.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-8",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:25.327499+00:00",
+      "sha256": "bbec4a7fd15998562c59f66b957cabbb67b75ee0ce98cf3324fd9b8d267c727e",
+      "title": "Entity 8 - \"Hound\"",
+      "authors": [
+        "Palico 22",
+        "rewritten by 1000dumplings"
+      ],
+      "citation": "\" Entity 8 - \"Hound\" \" by Palico 22, rewritten by 1000dumplings, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-8 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original author: Palico22 . Rewritten by 1000dumplings . Close",
+      "revision": "56",
+      "revision_text": "page revision: 56, last edited: 30 Sep 2025 17:26"
+    },
+    {
+      "id": "entity-9",
+      "kind": "entity",
+      "path": "documents/entity-9.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-9",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:26.791455+00:00",
+      "sha256": "c1dfcad6a14be724cca32c6684c08a3fb055d632beee474cd7ac1ab3a25be7cc",
+      "title": "Entity 9 - \"Facelings\"",
+      "authors": [
+        "Original co authors~ Jo",
+        "Higher Being Love Cereal!. Original collaborators~ Backrooms explorers Reddit. Author of first rewrite~ 1000dumplings",
+        "Author of current rewrite~ Nikuchan"
+      ],
+      "citation": "\" Entity 9 - \"Facelings\" \" by Original co authors~ Jo and Higher Being Love Cereal!. Original collaborators~ Backrooms explorers Reddit. Author of first rewrite~ 1000dumplings, Author of current rewrite~ Nikuchan, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-9 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original co authors~ Jo and Higher Being Love Cereal!. Original collaborators~ Backrooms explorers Reddit. Author of first rewrite~ 1000dumplings , Author of current rewrote~ Nikuchan Special thanks to LiminalDoctor for giving a very lengthy crit! Special thanks to Kai4C for giving an even longer crit and helping me expand on everything!!! Close",
+      "revision": "44",
+      "revision_text": "page revision: 44, last edited: 02 Nov 2026 20:45"
+    },
+    {
+      "id": "entity-10",
+      "kind": "entity",
+      "path": "documents/entity-10.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-10",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:28.026082+00:00",
+      "sha256": "6972bcd5f9273f2a7a19a5b6e5934b7d2cf78554fcf81dc7e8d16eb13a49a1cb",
+      "title": "Entity 10 - \"Skin-Stealer\"",
+      "authors": [
+        "Original author is AndromedaMapping1; Rewritten by 1000dumplings"
+      ],
+      "citation": "\" Entity 10 - \"Skin-Stealer\" \" by Original author is AndromedaMapping1; Rewritten by 1000dumplings, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-10 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original author is AndromedaMapping1 Rewritten by 1000dumplings Close",
+      "revision": "61",
+      "revision_text": "page revision: 61, last edited: 09 Mar 2025 00:58"
+    },
+    {
+      "id": "entity-11",
+      "kind": "entity",
+      "path": "documents/entity-11.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-11",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:29.310819+00:00",
+      "sha256": "ef1007c742ad40a3cfc28f2dd56a155863fe6612a6887f21d0ab1d167668e0c5",
+      "title": "Entity 11 - \"Bursters\"",
+      "authors": [
+        "Kekcroc"
+      ],
+      "citation": "\" Entity 11 - \"Bursters\" \" by Kekcroc, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-11 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original author on Fandom: Kekcroc Close",
+      "revision": "25",
+      "revision_text": "page revision: 25, last edited: 01 Jun 2025 11:47"
+    },
+    {
+      "id": "entity-12",
+      "kind": "entity",
+      "path": "documents/entity-12.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-12",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:30.640626+00:00",
+      "sha256": "2dcbdc7973268f8533512d19470a31c3a1fb7f55bc8693d43fa2391730d2f1bd",
+      "title": "Entity 12 - \"Dunks\"",
+      "authors": [
+        "BearPig"
+      ],
+      "citation": "\" Entity 12 - \"Dunks\" \" by BearPig, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-12 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original author BearPig does not match any existing user name Close",
+      "revision": "36",
+      "revision_text": "page revision: 36, last edited: 02 Nov 2026 15:25"
+    },
+    {
+      "id": "entity-13",
+      "kind": "entity",
+      "path": "documents/entity-13.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-13",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:32.036611+00:00",
+      "sha256": "3d9cecee02b9cb98f9dac06aa90000500dd93b0090eb83901478d7a7ec4c7d26",
+      "title": "Entity 13 - \"Transporters\"",
+      "authors": [
+        "anonymous fandom/reddit user",
+        "Rewritten by stellate"
+      ],
+      "citation": "\" Entity 13 - \"Transporters\" \" by anonymous fandom/reddit user, Rewritten by stellate, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-13 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "23",
+      "revision_text": "page revision: 23, last edited: 09 Mar 2025 01:03"
+    },
+    {
+      "id": "entity-14",
+      "kind": "entity",
+      "path": "documents/entity-14.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-14",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:33.323064+00:00",
+      "sha256": "2906c15673e8b831ee6072f1c359b57ac68d96905fb7adc1506c3f3fd577af7c",
+      "title": "Entity 14 - \"Reviooks\"",
+      "authors": [
+        "unknown author",
+        "Rewritten by 1000dumplings"
+      ],
+      "citation": "\" Entity 14 - \"Reviooks\" \" by unknown author, Rewritten by 1000dumplings, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-14 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Original author is unknown. Rewritten by: 1000dumplings Close",
+      "revision": "26",
+      "revision_text": "page revision: 26, last edited: 01 Jun 2025 11:47"
+    },
+    {
+      "id": "entity-15",
+      "kind": "entity",
+      "path": "documents/entity-15.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-15",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:34.669983+00:00",
+      "sha256": "d94dd243f5274740fa2d6f490bde2828951f57f692cb293563f48d915166091c",
+      "title": "Entity 15 - \"Wretches\"",
+      "authors": [
+        "Stretchsterz",
+        "etoisle"
+      ],
+      "citation": "\" Entity 15 - \"Wretches\" \" by Stretchsterz and etoisle, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-15 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Written by Stretchsterz and etoisle . Close",
+      "revision": "55",
+      "revision_text": "page revision: 55, last edited: 02 Nov 2026 15:20"
+    },
+    {
+      "id": "entity-16",
+      "kind": "entity",
+      "path": "documents/entity-16.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-16",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:35.918364+00:00",
+      "sha256": "01c586f7c28a9a561f3a4e6bacdabf2e69da55e33ae7442678e115cf5325510e",
+      "title": "Entity 16 - \"Nguithr'xurh\"",
+      "authors": [
+        "unknown author",
+        "rewritten by zakkun_"
+      ],
+      "citation": "\" Entity 16 - \"Nguithr'xurh\" \" by unknown author, rewritten by zakkun_, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-16 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Written by unknown author and rewritten by zakkun_ . Close",
+      "revision": "39",
+      "revision_text": "page revision: 39, last edited: 17 Oct 2025 14:53"
+    },
+    {
+      "id": "entity-17",
+      "kind": "entity",
+      "path": "documents/entity-17.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/entity-17",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:37.141271+00:00",
+      "sha256": "1c321d382efe0045d34360976371bbb6928bb35e9e14a7b9788f7bd0dc622f71",
+      "title": "Entity 17 - \"Crawlers\"",
+      "authors": [
+        "unknown author",
+        "rewritten by Uberspective"
+      ],
+      "citation": "\" Entity 17 - \"Crawlers\" \" by unknown author, rewritten by Uberspective, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/entity-17 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Written by unknown author and rewritten by Uberspective . Close",
+      "revision": "40",
+      "revision_text": "page revision: 40, last edited: 01 Jun 2025 11:47"
+    },
+    {
+      "id": "object-1",
+      "kind": "object",
+      "path": "documents/object-1.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-1",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:38.430337+00:00",
+      "sha256": "cab0ee22eee2366ee41816377793dceeed3d8e0ace7a5a554a7fd707b33dbf7a",
+      "title": "Object 1 - \"Almond Water\"",
+      "authors": [
+        "Natedagreat563"
+      ],
+      "citation": "\" Object 1 - \"Almond Water\" \" by Natedagreat563, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-1 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "44",
+      "revision_text": "page revision: 44, last edited: 10 Oct 2026 04:14"
+    },
+    {
+      "id": "object-2",
+      "kind": "object",
+      "path": "documents/object-2.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:40.889269+00:00",
+      "sha256": "10950bf5508f54ba1de8611ccfd691dd4da04cb0c43d7598bbcef750f322c6e5",
+      "title": "Object 2 - \"Level Keys\"",
+      "authors": [
+        "DrAkimoto"
+      ],
+      "citation": "\" Object 2 - \"Level Keys\" \" by DrAkimoto, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-2 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "Info Rewritten by DrAkimoto . Original fandom page written by Kingsheep. Critique by: Praetor3005 SquibbleZombie Door image edited by lemme . Additional Lore Help from: MC_Crafter_24_7 Guy777 Levels: Level 0 , Level 17 , Level 24 , Level 77 , Level 79 , Level 80 , Level 102 , Level 103 , Level 108 , Level 116 , Level 117 , Level 406 , Level 701 , Ataraxia , In Extremis , You've Been Served (J) Entities: Entity 2 , Entity 4 , Entity 21 , Entity 51 , Entity 70 , Entity 88 , Entity 116 Objects: Object 2 , Object 52 Phenomenon: Phenomenon 35 , Phenomenon 51 , Phenomenon 71 Tales: :) , Crossroads , All in a Day's Work Other: B.N.T.G. Hub , Akirooms Close",
+      "revision": "17",
+      "revision_text": "page revision: 17, last edited: 29 Dec 2025 21:18"
+    },
+    {
+      "id": "object-3",
+      "kind": "object",
+      "path": "documents/object-3.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-3",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:42.771539+00:00",
+      "sha256": "dc927531ee48c5ab344680cd335e754a8a2a3eaf0b45839a604adcfb7f88a1f4",
+      "title": "Object 3 - \"Smiler Repellent\"",
+      "authors": [
+        "yoyoflux"
+      ],
+      "citation": "\" Object 3 - \"Smiler Repellent\" \" by yoyoflux, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-3 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "38",
+      "revision_text": "page revision: 38, last edited: 10 Oct 2026 04:17"
+    },
+    {
+      "id": "object-4",
+      "kind": "object",
+      "path": "documents/object-4.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-4",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:44.567727+00:00",
+      "sha256": "fa1c59951a803b1cd54dd647b803f44bc6cb6fdedd46e0bb08d2bb2dc3a50f84",
+      "title": "Object 4 - \"Deuclidator\"",
+      "authors": [
+        "CementSandwich"
+      ],
+      "citation": "\" Object 4 - \"Deuclidator\" \" by CementSandwich, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-4 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "27",
+      "revision_text": "page revision: 27, last edited: 07 May 2026 20:50"
+    },
+    {
+      "id": "object-5",
+      "kind": "object",
+      "path": "documents/object-5.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-5",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:47.267847+00:00",
+      "sha256": "ac19b3aaee49ea4df241e5fd98f0c9b5200a7a8e32fdd1928f267cb9327246fe",
+      "title": "Object 5 - \"Candy\"",
+      "authors": [
+        "CutTheBirch"
+      ],
+      "citation": "\" Object 5 - \"Candy\" \" by CutTheBirch, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-5 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "13",
+      "revision_text": "page revision: 13, last edited: 09 Nov 2025 09:31"
+    },
+    {
+      "id": "object-6",
+      "kind": "object",
+      "path": "documents/object-6.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-6",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:48.614174+00:00",
+      "sha256": "0556530df8c6e827e75cd8e7c20b353619ff1591c412679824b23f17d9513a95",
+      "title": "Object 6 - \"The Mirror\"",
+      "authors": [
+        "Kai4C"
+      ],
+      "citation": "\" Object 6 - \"The Mirror\" \" by Kai4C, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-6 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "98",
+      "revision_text": "page revision: 98, last edited: 05 Mar 2026 20:52"
+    },
+    {
+      "id": "object-7",
+      "kind": "object",
+      "path": "documents/object-7.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-7",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:49.898981+00:00",
+      "sha256": "353b33f75d9d90281d10d0f7b23ab0df8902fef2c43c17c59848f09ec182831b",
+      "title": "Object 7 - \"Memory Jars\"",
+      "authors": [
+        "Niko_Discord"
+      ],
+      "citation": "\" Object 7 - \"Memory Jars\" \" by Niko_Discord, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-7 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "43",
+      "revision_text": "page revision: 43, last edited: 07 Aug 2026 06:44"
+    },
+    {
+      "id": "object-8",
+      "kind": "object",
+      "path": "documents/object-8.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-8",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:51.157167+00:00",
+      "sha256": "a69940f82158c728921124c313f0b945c389f759e30c6823062a6804ce76e3b6",
+      "title": "Object 8 - \"Lamps\"",
+      "authors": [
+        "1000dumplings",
+        "rewritten by yoyoflux",
+        "Aether48"
+      ],
+      "citation": "\" Object 8 - \"Lamps\" \" by 1000dumplings, rewritten by yoyoflux and Aether48, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-8 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "28",
+      "revision_text": "page revision: 28, last edited: 14 Jun 2026 16:17"
+    },
+    {
+      "id": "object-9",
+      "kind": "object",
+      "path": "documents/object-9.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-9",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:52.394973+00:00",
+      "sha256": "24c0d20cf6341aa55261e17e92eb6301a9be1bc2ab8b9efb65cb5ace214f0996",
+      "title": "Object 9 - \"Dumb Gum\"",
+      "authors": [
+        "PinDead"
+      ],
+      "citation": "\" Object 9 - \"Dumb Gum\" \" by PinDead, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-9 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "12",
+      "revision_text": "page revision: 12, last edited: 19 May 2026 05:08"
+    },
+    {
+      "id": "object-10",
+      "kind": "object",
+      "path": "documents/object-10.md",
+      "source_url": "https://backrooms-wiki.wikidot.com/object-10",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "fetched_at": "2026-11-06T12:48:53.662908+00:00",
+      "sha256": "86f67b625df95f2cdec14bddfa9d2a8ca739318c23d74ce3302b7b396e840a73",
+      "title": "Object 10 - \"Scarecrows\"",
+      "authors": [
+        "CutTheBirch"
+      ],
+      "citation": "\" Object 10 - \"Scarecrows\" \" by CutTheBirch, from the Backrooms Wiki . Source: https://backrooms-wiki.wikidot.com/object-10 . Licensed under CC BY-SA-3.0 .",
+      "credit_text": "",
+      "revision": "12",
+      "revision_text": "page revision: 12, last edited: 07 Feb 2026 20:27"
+    }
+  ]
+}

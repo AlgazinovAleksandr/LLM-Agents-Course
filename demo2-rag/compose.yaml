@@ -1,0 +1,19 @@
+services:
+  app:
+    build: .
+    ports:
+      - "127.0.0.1:8501:8501"
+    env_file:
+      - .env
+    environment:
+      BACKROOMS_DATA_DIR: /app/data
+      BACKROOMS_STORAGE_DIR: /app/storage
+      HF_HOME: /home/app/.cache/huggingface
+    volumes:
+      - ./data:/app/data:ro
+      - backrooms-index:/app/storage
+      - backrooms-models:/home/app/.cache/huggingface
+
+volumes:
+  backrooms-index:
+  backrooms-models:

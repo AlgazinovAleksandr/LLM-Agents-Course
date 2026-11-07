@@ -1,0 +1,15 @@
+# Python 3.12; the retrieval pins match the existing Lecture 06 environment.
+llama-index-core==0.14.25
+llama-index-embeddings-huggingface==0.8.0
+llama-index-llms-openai-like==0.8.0
+sentence-transformers==6.1.0
+transformers==5.17.0
+torch==2.14.0
+openai==2.54.0
+python-dotenv==1.2.3
+streamlit==1.66.0
+
+# Reproducible corpus refresh; the bundled Markdown needs no network conversion.
+requests==2.34.2
+beautifulsoup4==4.15.0
+markdownify==1.2.0
